@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "PLMIX"]
+	path = PLMIX
+	url = https://github.com/cmollica/plmix
+	shallow = true
+	registered = true
